@@ -1,5 +1,6 @@
 import './App.css';
 import Mensaje from '../Mensaje/Mensaje';
+import Prueba from '../Prueba/Prueba';
 
 function App() {
   return (
