@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.lista{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tipoLista{
+  list-style: none;
+}
+.tipoLista li:before{
+  content: "*";
+  margin-right: 0em;
+}
